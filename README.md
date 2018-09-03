@@ -1,0 +1,1 @@
+There are many exercises of Java Core here, but they aren't completely in PermutationOfString and returnHighestOccurredCharacter
